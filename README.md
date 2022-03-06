@@ -1,4 +1,4 @@
-Hello world, it's time to create standard, plexible & extensible WebRTC application in PHP.
+Hello world, it's time to create standard, flexible & extensible WebRTC application in PHP.
 
 This project will use pure @php & @swoole code in the backend.
 
